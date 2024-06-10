@@ -1,0 +1,11 @@
+key,SourceString
+title_Buff.ReduceCooldown,쿨다운 포션
+desc_Buff.ReduceCooldown,<default_tooltip>30초간 스킬 쿨타임이</> <yellow_tooltip>50%</><default_tooltip>감소합니다.</>
+title_Buff.IncreaseArmor,방어력 포션
+desc_Buff.IncreaseArmor,<yellow_tooltip>10</><default_tooltip>초간 방어력이</> <yellow_tooltip>5</><default_tooltip>(중첩당</> <yellow_tooltip>+5</> <default_tooltip>)증가한다. 최대 중첩횟수 :</> <red_tooltip>2</>
+title_Buff.IncreaseCriticalHitChance,치명타확률 포션
+desc_Buff.IncreaseCriticalHitChance,<yellow_tooltip>10</><default_tooltip>초간 치명타 확률이 </><yellow_tooltip>10</><default_tooltip>(중첩당</> <yellow_tooltip>+10</><default_tooltip>)증가한다. 최대 중첩횟수: </><red_tooltip>2</>
+title_Buff.IncreaseCriticalHitDamage,치명타데미지 포션
+desc_Buff.IncreaseCriticalHitDamage,<yellow_tooltip>10</><default_tooltip>초간 치명타데미지가</> <yellow_tooltip>10</><default_tooltip>(중첩당</> <yellow_tooltip>+10</><default_tooltip>)증가한다. 최대 중첩횟수: </><red_tooltip>2</>
+title_Buff.IncreaseResistance,저항력 포션
+desc_Buff.IncreaseResistance,<yellow_tooltip>10</><default_tooltip>초간 모든저항력이</> <yellow_tooltip>10</><default_tooltip>(중첩당 </><yellow_tooltip>+10</><default_tooltip>)증가한다. 최대 중첩횟수: </><red_tooltip>2</>

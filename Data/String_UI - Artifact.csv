@@ -1,0 +1,34 @@
+key,SourceString
+title_Artifact.ChickenLeg,구운 닭다리
+evolution_Artifact.ChickenLeg,최대체력이 <yellow>10</>(중첩당<yellow> +10</>)증가합니다.
+desc_Artifact.ChickenLeg,<default_tooltip>최대체력이</> <yellow_tooltip>10</><default_tooltip>(중첩당</><yellow> +10</><default_tooltip>)증가합니다.</>
+title_Artifact.BlueDrug,파란약
+evolution_Artifact.BlueDrug,적을 처치시 <yellow>10%</>(중첩당<yellow> +10%</>)의 확률로 힐팩을 떨어뜨립니다.
+desc_Artifact.BlueDrug,<default_tooltip>적을 처치시</> <yellow_tooltip>10%</><default_tooltip>(중첩당</><yellow_tooltip> +10%</><default_tooltip>)의 확률로 힐팩을 떨어뜨립니다.</>
+title_Artifact.RedDrug,빨간약
+evolution_Artifact.RedDrug,피해를 입히면 <yellow>1</>(중첩당<yellow> +1</>)의 체력을 회복합니다.
+desc_Artifact.RedDrug,<default_tooltip>피해를 입히면</> <yellow_tooltip>1</><default_tooltip>(중첩당</><yellow> +1</><default_tooltip>)의 체력을 회복합니다.</>
+title_Artifact.Adrenaline,아드레날린
+evolution_Artifact.Adrenaline,이동속도가 <yellow>8%</>(중첩당<yellow> +8%</>)증가합니다.
+desc_Artifact.Adrenaline,<default_tooltip>이동속도가</> <yellow_tooltip>8%</><default_tooltip>(중첩당</><yellow_tooltip> +8%</><default_tooltip>)증가합니다.</>
+title_Artifact.PoisonApple,독이든 사과
+evolution_Artifact.PoisonApple,적을 처치시 독사과 폭탄이 폭발하여 기본피해의 <yellow>100%</>(중첩당 <yellow>+100%</>)의 데미지를 입힙니다.
+desc_Artifact.PoisonApple,<default_tooltip>적을 처치시 독사과 폭탄이 폭발하여 기본피해의</> <yellow_tooltip>100%</><default_tooltip>(중첩당 </><yellow_tooltip>+100%</><default_tooltip>)의 데미지를 입힙니다.</>
+title_Artifact.IceMushroom,꽁꽁 버섯
+evolution_Artifact.IceMushroom,적을 명중시 <yellow>5%</>(중첩당<yellow> +5%</>)의 확률로 얼음장벽을 소환하여 <yellow>3</>초동안 적들의 속도를 <yellow>50%</>감소시킵니다.
+desc_Artifact.IceMushroom,<default_tooltip>적을 명중시</> <yellow_tooltip>5%</><default_tooltip>(중첩당</><yellow_tooltip> +5%</><default_tooltip>)의 확률로 얼음장벽을 소환하여</> <yellow_tooltip>3</><default_tooltip>초동안 적들의 속도를</> <yellow_tooltip>50%</><default_tooltip>감소시킵니다.</>
+title_Artifact.ArcReactor,아크 원자로
+evolution_Artifact.ArcReactor,적을 처치시 <yellow>10%</>(중첩당<yellow> +10%</>)의 확률로 모든 스킬의 쿨타임을 초기화하는 아크 원자로를 떨어뜨립니다.
+desc_Artifact.ArcReactor,<default_tooltip>적을 처치시 </><yellow_tooltip>10%</><default_tooltip>(중첩당</><yellow_tooltip> +10%</><default_tooltip>)의 확률로 모든 스킬의 쿨타임을 초기화하는 아크 원자로를 떨어뜨립니다.</>
+title_Artifact.Cannie,송곳니
+evolution_Artifact.Cannie,주공격시 <yellow>5%</>(중첩당<yellow> +5%</>)의 확률로 기본피해의 <yellow>100%</>(중첩당<yellow> +100%</>)의 피해를 가하는 투사체를 발사합니다.
+desc_Artifact.Cannie,<default_tooltip>주공격시</> <yellow_tooltip>5%</><default_tooltip>(중첩당</><yellow_tooltip> +5%</><default_tooltip>)의 확률로 기본피해의</> <yellow_tooltip>100%</><default_tooltip>(중첩당</><yellow_tooltip> +100%</><default_tooltip>)의 피해를 가하는 투사체를 발사합니다.</>
+title_Artifact.CeremonialDagger,의식용 단검
+evolution_Artifact.CeremonialDagger,적을 처치시 <yellow>3</>개의 유도단검을 발사합니다. 단검은 기본피해의 <yellow>100%</>(중첩당<yellow> +100%</>)의 데미지를 입힙니다.
+desc_Artifact.CeremonialDagger,<default_tooltip>적을 처치시</> <yellow_tooltip>3</><default_tooltip>개의 유도단검을 발사합니다. 단검은 기본피해의</> <yellow_tooltip>100%</><default_tooltip>(중첩당</><yellow_tooltip> +100%</><default_tooltip>)의 데미지를 입힙니다.</>
+title_Artifact.RandomBox,랜덤박스
+evolution_Artifact.RandomBox,적을 처치시 <yellow>10%</>(중첩당 <yellow>+10%</>)의 확률로 버프물약을 떨어뜨립니다.
+desc_Artifact.RandomBox,<default_tooltip>적을 처치시 </><yellow_tooltip>10%</><default_tooltip>(중첩당 </><yellow_tooltip>+10%</><default_tooltip>)의 확률로 버프물약을 떨어뜨립니다.</>
+title_Artifact.Glass,단단한 유리
+evolution_Artifact.Glass,<yellow>10%</>(중첩당 <yellow>+10%</>)의 확률로 받는 피해를 차단합니다.
+desc_Artifact.Glass,<yellow_tooltip>10%</><default_tooltip>(중첩당 </><yellow_tooltip>+10%</><default_tooltip>)의 확률로 받는 피해를 차단합니다.</>

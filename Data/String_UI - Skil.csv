@@ -1,0 +1,19 @@
+key,SourceString
+title_Abilities.Skill.Fire,총알발사
+desc_Abilities.Skill.Fire,총알발사 설명
+evolution_Abilities.Skill.Fire,데미지가 증가합니다.
+title_Abilities.Skill.Dash,대시
+desc_Abilities.Skill.Dash,대시 설명
+evolution_Abilities.Skill.Dash,재사용 대기시간이 감소합니다.
+title_Abilities.Skill.Inferno,인페르노
+desc_Abilities.Skill.Inferno,인페르노 설명
+evolution_Abilities.Skill.Inferno,"데미지가 증가하고, 재사용 대기시간이 감소합니다."
+title_Abilities.Skill.EnergyShockWave,에너지 쇼크웨이브
+desc_Abilities.Skill.EnergyShockWave,에너지 쇼크웨이브 설명
+evolution_Abilities.Skill.EnergyShockWave,"데미지가 증가하고, 재사용 대기시간이 감소합니다."
+title_Abilities.Skill.DragonBullet,갈래화살
+desc_Abilities.Skill.DragonBullet,갈래화살 설명
+evolution_Abilities.Skill.DragonBullet,"데미지가 증가하고, 재사용 대기시간이 감소합니다."
+title_Abilities.Skill.SpawnHealCircle,홀리써클
+desc_Abilities.Skill.SpawnHealCircle,홀리써클 설명
+evolution_Abilities.Skill.SpawnHealCircle,재사용 대기시간이 감소합니다.

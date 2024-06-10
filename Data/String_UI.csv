@@ -1,0 +1,51 @@
+key,SourceString
+title_Buff.ReduceCooldown,쿨다운 포션
+desc_Buff.ReduceCooldown,<default_tooltip>30초간 스킬 쿨타임이</> <yellow_tooltip>50%</><default_tooltip>감소합니다.</>
+title_Buff.IncreaseArmor,방어력 포션
+desc_Buff.IncreaseArmor,<yellow_tooltip>10</><default_tooltip>초간 방어력이</> <yellow_tooltip>5</><default_tooltip>(중첩당</> <yellow_tooltip>+5</> <default_tooltip>)증가한다. 최대 중첩횟수 :</> <red_tooltip>2</>
+title_Buff.IncreaseCriticalHitChance,치명타확률 포션
+desc_Buff.IncreaseCriticalHitChance,<yellow_tooltip>10</><default_tooltip>초간 치명타 확률이 </><yellow_tooltip>10</><default_tooltip>(중첩당</> <yellow_tooltip>+10</><default_tooltip>)증가한다. 최대 중첩횟수: </><red_tooltip>2</>
+title_Buff.IncreaseCriticalHitDamage,치명타데미지 포션
+desc_Buff.IncreaseCriticalHitDamage,<yellow_tooltip>10</><default_tooltip>초간 치명타데미지가</> <yellow_tooltip>10</><default_tooltip>(중첩당</> <yellow_tooltip>+10</><default_tooltip>)증가한다. 최대 중첩횟수: </><red_tooltip>2</>
+title_Buff.IncreaseResistance,저항력 포션
+desc_Buff.IncreaseResistance,<yellow_tooltip>10</><default_tooltip>초간 모든저항력이</> <yellow_tooltip>10</><default_tooltip>(중첩당 </><yellow_tooltip>+10</><default_tooltip>)증가한다. 최대 중첩횟수: </><red_tooltip>2</>
+title_Abilities.Skill.Fire,총알발사
+desc_Abilities.Skill.Fire,총알발사 설명
+evolution_Abilities.Skill.Fire,데미지가 증가합니다.
+title_Abilities.Skill.Dash,대시
+desc_Abilities.Skill.Dash,대시 설명
+evolution_Abilities.Skill.Dash,재사용 대기시간이 감소합니다.
+title_Abilities.Skill.Inferno,인페르노
+desc_Abilities.Skill.Inferno,인페르노 설명
+evolution_Abilities.Skill.Inferno,"데미지가 증가하고, 재사용 대기시간이 감소합니다."
+title_Abilities.Skill.EnergyShockWave,에너지 쇼크웨이브
+desc_Abilities.Skill.EnergyShockWave,에너지 쇼크웨이브 설명
+evolution_Abilities.Skill.EnergyShockWave,"데미지가 증가하고, 재사용 대기시간이 감소합니다."
+title_Abilities.Skill.DragonBullet,갈래화살
+desc_Abilities.Skill.DragonBullet,갈래화살 설명
+evolution_Abilities.Skill.DragonBullet,"데미지가 증가하고, 재사용 대기시간이 감소합니다."
+title_Abilities.Skill.SpawnHealCircle,홀리써클
+desc_Abilities.Skill.SpawnHealCircle,홀리써클 설명
+evolution_Abilities.Skill.SpawnHealCircle,재사용 대기시간이 감소합니다.
+title_Artifact.ChickenLeg,구운 닭다리
+evolution_Artifact.ChickenLeg,최대체력이 <yellow>10</>(중첩당<yellow> +10</>)증가합니다.
+title_Artifact.BlueDrug,파란약
+evolution_Artifact.BlueDrug,적을 처치시 <yellow>10%</>(중첩당<yellow> +10%</>)의 확률로 힐팩을 떨어뜨립니다.
+title_Artifact.RedDrug,빨간약
+evolution_Artifact.RedDrug,피해를 입히면 <yellow>1</>(중첩당<yellow> +1</>)의 체력을 회복합니다.
+title_Artifact.Adrenaline,아드레날린
+evolution_Artifact.Adrenaline,이동속도가 <yellow>8%</>(중첩당<yellow> +8%</>)증가합니다.
+title_Artifact.PoisonApple,독이든 사과
+evolution_Artifact.PoisonApple,적을 처치시 독사과 폭탄이 폭발하여 기본피해의 <yellow>100%</>(중첩당 <yellow>+100%</>)의 데미지를 입힙니다.
+title_Artifact.IceMushroom,꽁꽁 버섯
+evolution_Artifact.IceMushroom,적을 명중시 <yellow>5%</>(중첩당<yellow> +5%</>)의 확률로 얼음장벽을 소환하여 <yellow>3</>초동안 적들의 속도를 <yellow>50%</>감소시킵니다.
+title_Artifact.ArcReactor,아크 원자로
+evolution_Artifact.ArcReactor,적을 처치시 <yellow>10%</>(중첩당<yellow> +10%</>)의 확률로 모든 스킬의 쿨타임을 초기화하는 아크 원자로를 떨어뜨립니다.
+title_Artifact.Cannie,송곳니
+evolution_Artifact.Cannie,주공격시 <yellow>5%</>(중첩당<yellow> +5%</>)의 확률로 기본피해의 <yellow>100%</>(중첩당<yellow> +100%</>)의 피해를 가하는 투사체를 발사합니다.
+title_Artifact.CeremonialDagger,의식용 단검
+evolution_Artifact.CeremonialDagger,적을 처치시 <yellow>3</>개의 유도단검을 발사합니다. 단검은 기본피해의 <yellow>100%</>(중첩당<yellow> +100%</>)의 데미지를 입힙니다.
+title_Artifact.RandomBox,랜덤박스
+evolution_Artifact.RandomBox,적을 처치시 <yellow>10%</>(중첩당 <yellow>+10%</>)의 확률로 버프물약을 떨어뜨립니다.
+title_Artifact.Glass,단단한 유리
+evolution_Artifact.Glass,<yellow>10%</>확률(중첩당 <yellow>+10%</>)로 받는 피해를 차단합니다.
