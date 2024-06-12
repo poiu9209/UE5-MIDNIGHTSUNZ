@@ -32,7 +32,7 @@ UE5의 게임플레이 프레임워크와 게임플레이 어빌리티 시스템
 # Class Diagram
 ---
 
-![클래스다이어그램](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/cb703cb7-49f3-40a1-8f48-bb0badb49258)
+![ClassDiagram](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/2c6e439d-0117-465c-b628-17c6dac106c3)
 
 
 # 게임 결과물
