@@ -67,3 +67,22 @@ UE5의 게임플레이 프레임워크와 게임플레이 어빌리티 시스템
 
 ![진화선택](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/33a2f684-0634-4f92-838e-33bcfc1909b6)
 ![아티팩트](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/221a657f-df2a-4d7f-a811-b9a6179c5c04)
+
+# Reference
+---
+
+#### Game
+![synthetik](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/cba22c6b-b77c-4f9a-85b8-a376b821f94d)
+![gatekeeper](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/9a847c34-7ba2-450e-8eff-3fadec74a010)
+![RiskOfRain](https://github.com/poiu9209/UE5-MIDNIGHTSUNZ/assets/22052262/ef0d93c2-212e-4742-8cb8-498fde3669db)
+
+#### UE5
+[Unreal Engine Document](https://dev.epicgames.com/documentation/en-us/unreal-engine/making-interactive-experiences-and-gameplay-in-unreal-engine?application_version=5.4)
+
+[GASDocumentation](https://github.com/tranek/GASDocumentation#41-ability-system-component)
+
+[udemy UE5](https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/?couponCode=ST21MT61124)
+
+<https://vorixo.github.io/devtricks/gas-replication-proxy/>
+
+<https://www.thegames.dev/?p=62>
